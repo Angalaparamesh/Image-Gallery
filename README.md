@@ -21,7 +21,7 @@ Creating an engaging and descriptive image gallery involves several elements to 
 
 ## How to view
 
-  You can access my Image Gallery website by visiting [] feel free to explore the content and get in touch!
+  You can access my Image Gallery website by visiting [https://angalaparamesh.github.io/Image-Gallery/] feel free to explore the content and get in touch!
 
 ##Contributing
 
