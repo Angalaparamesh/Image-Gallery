@@ -1,0 +1,50 @@
+*{
+    margin:0;
+    padding:0;
+}
+.gallery{
+    background-color:burlywood;
+    border:2px solid black;
+    height:600px;
+    width:70%;
+    margin:50px;
+    margin-left:200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.gal__one h1{
+    background-color:black;
+    color:gray;
+    height:30px;
+    width:130px;
+    text-align:center;
+    border-radius:10px;
+   
+    padding:10px;
+    margin:2px;
+}
+.gal__one h2{
+    text-align:center;
+    margin:10px;
+    margin-top:2px;
+}
+hr{
+    width:50%;
+    border-width:4px;
+    text-align:center;
+    margin-left:250px;
+     border:2px solid black;
+    
+}
+.gall{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    flex-wrap:wrap;
+}
+.gall img{
+    width:170px;
+    height:200px;
+    border:2px solid black;
+    border-radius:10px;
+    margin:10px;
+}
